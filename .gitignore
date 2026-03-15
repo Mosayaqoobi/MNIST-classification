@@ -1,0 +1,6 @@
+/data
+.env
+.venv
+.idea
+*.png
+/example_imgs
